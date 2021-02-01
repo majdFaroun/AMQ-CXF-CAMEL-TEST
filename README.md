@@ -1,0 +1,1 @@
+# AMQ-CXF-CAMEL-TEST
